@@ -5,7 +5,7 @@
 
   Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://estrella-cutiepie.me/restaurent-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
